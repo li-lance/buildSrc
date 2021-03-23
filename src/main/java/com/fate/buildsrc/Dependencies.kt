@@ -53,7 +53,7 @@ object Libs {
     const val jetpack = "1.2.0"
     const val appcompat = "androidx.appcompat:appcompat:$jetpack"
     const val core = "androidx.core:core-ktx:1.5.0-beta01"
-    const val material = "com.google.android.material:material:1.2.1"
+    const val material = "com.google.android.material:material:1.3.0"
     const val constraintlayout = "androidx.constraintlayout:constraintlayout:2.0.4"
 
     //    const val navigation = "androidx.navigation:navigation-compose:1.0.0-alpha06"
