@@ -13,7 +13,6 @@ configure<BaseExtension> {
 dependencies {
     add(PLUGIN_CLASSPATH_CONFIGURATION_NAME, platform(project(":dependencies")))
     add(PLUGIN_CLASSPATH_CONFIGURATION_NAME, "androidx.compose.compiler:compiler")
-
     "implementation"("androidx.compose.runtime:runtime")
     "implementation"("androidx.compose.ui:ui")
     "implementation"("androidx.compose.ui:ui-util")
