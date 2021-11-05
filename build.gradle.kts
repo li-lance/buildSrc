@@ -21,6 +21,8 @@ dependencies {
     implementation("com.vanniktech:gradle-dependency-graph-generator-plugin:0.6.0")
     implementation("io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.14.2")
     implementation("androidx.navigation:navigation-safe-args-gradle-plugin:2.3.5")
+    implementation("com.google.dagger:hilt-android-gradle-plugin:2.30.1-alpha")
+
 }
 
 tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
