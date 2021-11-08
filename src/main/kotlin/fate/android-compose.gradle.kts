@@ -27,6 +27,7 @@ dependencies {
     "implementation"("androidx.constraintlayout:constraintlayout-compose")
     "implementation"("androidx.lifecycle:lifecycle-viewmodel-compose")
     "implementation"("androidx.navigation:navigation-compose")
+    "implementation"("androidx.paging:paging-compose")
 
     "androidTestImplementation"("androidx.compose.ui:ui-test-junit4")
 }
