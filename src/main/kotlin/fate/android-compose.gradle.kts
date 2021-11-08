@@ -22,10 +22,11 @@ dependencies {
     "implementation"("androidx.compose.material:material-icons-core")
     "implementation"("androidx.compose.material:material-icons-extended")
     "implementation"("com.google.android.material:compose-theme-adapter")
-
+    "implementation"("androidx.navigation:navigation-common-ktx")
     "implementation"("androidx.activity:activity-compose")
     "implementation"("androidx.constraintlayout:constraintlayout-compose")
     "implementation"("androidx.lifecycle:lifecycle-viewmodel-compose")
+    "implementation"("androidx.navigation:navigation-compose")
 
     "androidTestImplementation"("androidx.compose.ui:ui-test-junit4")
 }
