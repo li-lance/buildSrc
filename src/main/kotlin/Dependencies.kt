@@ -125,6 +125,7 @@ object Lib {
     const val daggerAndroidCompiler = "com.google.dagger:dagger-android-processor"
     const val hilt = "com.google.dagger:hilt-android"
     const val hiltCompiler = "com.google.dagger:hilt-android-compiler"
+    const val composeNavigation = "androidx.hilt:hilt-navigation-compose:"
   }
 
   object Retrofit {
@@ -184,4 +185,5 @@ object Lib {
   const val baseRecyclerViewAdapterHelper = "com.github.CymChad:BaseRecyclerViewAdapterHelper"
   const val composeShimmer = "com.valentinilk.shimmer:compose-shimmer"
   const val uuid = "com.benasher44:uuid"
+  const val timber = "com.jakewharton.timber:timber"
 }
