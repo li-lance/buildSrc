@@ -186,4 +186,5 @@ object Lib {
   const val composeShimmer = "com.valentinilk.shimmer:compose-shimmer"
   const val uuid = "com.benasher44:uuid"
   const val timber = "com.jakewharton.timber:timber"
+  const val palette = "androidx.palette:palette"
 }
